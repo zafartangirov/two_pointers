@@ -9,6 +9,7 @@ public class Main {
         System.out.println(Arrays.toString(result));
     }
 
+    // this method remove duplicates
     public static int removeDuplicates(int[] arr) {
         if (arr.length == 0) return 0;
 
